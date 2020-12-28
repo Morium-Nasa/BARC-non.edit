@@ -1,0 +1,101 @@
+header{
+    background:#F0FFF0 ;
+}
+nav{
+    background: #F0FFF0;
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: left;
+}
+
+#signin{
+    background: #188164;
+    color: #fff;
+    border-radius: 29px;
+    width: 104px;
+    display: flex;
+    justify-content: center;
+}
+ul li{
+    padding: 0 9px;
+}
+ul li a{
+    padding: 2px 7px;
+}
+a:hover{
+    /*background: yellow;*/
+    color: #fff;
+}
+.slider-right{
+    width: 100%;
+}
+.slider-right img{
+    height: 100%;
+    width: 100%;
+}
+.red{
+    color: red;
+}
+.slider-left{
+    padding: 5%;
+}
+.slider-left h1 span{
+    color: #21B573;;
+}
+.slider-left h1{
+    text-transform: capitalize;
+}
+.get-start{
+    background: #188164;
+    color: #fff;
+    border: none;
+    padding: 11px 19px;
+    border-radius: 33px;
+}
+.card{
+    border: none;
+    box-shadow: 9px 9px 15px;
+    padding: 29px;
+    background: white;
+    border-radius: 15px;
+}
+.card img{
+    height: 155px;
+    width: 155px;
+}
+.card-deck{
+    margin: 5% 0;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+}
+.buy-course{
+    background: #21B573;
+    color: #fff;
+    border: none;
+    padding: 11px 19px;
+    border-radius: 33px;
+}
+.testmonial{
+    margin-bottom: 5%;
+}
+.testmonial .image{
+    width: 100%;
+}
+.testmonial .image img{
+    width: 100%;
+}
+footer{
+    background: #282531;
+    color: #fff;
+    padding: 45px 0;
+}
+footer li{
+    list-style-type: none;
+}
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
