@@ -1,0 +1,40 @@
+
+ul li{
+    padding: 0 9px;
+
+}
+ul li a{
+    padding: 2px 7px;
+}
+a:hover{
+    background: #0F0134;
+    color: #fff;
+}
+.slider-right{
+    width: 100%;
+}
+.slider-right img{
+    height: 100%;
+    width: 100%;
+}
+.red{
+    color: #E9E6F7;
+}
+.slider-left{
+    padding: 5%;
+}
+.slider-left h1 span{
+    color:#7654AB;
+}
+.slider-left h1{
+    text-transform: capitalize;
+}
+.get-start{
+    background: #8175FC;
+    color: #fff;
+    border: none;
+    padding: 11px 19px;
+    border-radius: 33px;
+}
+
+
